@@ -7,7 +7,7 @@ We are excited to see you Build your edge with us.
 ## Repository structure
 When contributing to our projects, please make sure that you are following our guidelines: 
 * Each project must include the following files : 
-1. A README file. Please use the [README template](README_Template.md) as a starting point. 
+1. A README file. Please use the [README template](README_template.md) as a starting point. 
 2. [A CONTRIBUTING file](CONTRIBUTING.md)
 3. A license. Please choose [the MIT license](LICENSE.txt) or [the Zebra EULA](ZEBRA_EULA_LICENSE.md) depending on your needs. 
 4. [A Code of Conduct file](Code_of_Conduct.md)
