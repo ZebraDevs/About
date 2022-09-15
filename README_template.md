@@ -13,4 +13,4 @@ Example: in a project that covers code sample for the EMDK for an android, this 
 This project welcomes contributions. Pleae check out our [Contributing guide](CONTRIBUTING.md) to learn more on how to get started.
 
 ## License
-[MIT](LICENSE.txt) or [Zebra EULA](ZEBRA%20EULA%20LICENSE.md) depending on the nature of the project. 
+[MIT](LICENSE.txt) or [Zebra EULA](ZEBRA_EULA_LICENSE.md) depending on the nature of the project. 
